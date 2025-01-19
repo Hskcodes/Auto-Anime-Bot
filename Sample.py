@@ -1,28 +1,29 @@
 # Bot Configs
-API_ID= "6620972"
-API_HASH= "3f6835286b03e000ab6d71b37cc35b92"
-BOT_TOKEN= "7776471708:AAG6UtVlYsbhcJN1LzcCw0RskW3zyehKgMI"
+API_ID="25582726"
+API_HASH="558df3cdc4820fd2de0950656e8112f3"
+BOT_TOKEN="8041132355:AAHyYuoDmlGd6t7l-0k7VGf-CXH4c6e5zCs"
 
 # Database ( Mandatory )
-MONGO_URI= "mongodb+srv://Kon:Kon@cluster0.uhjjglp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+MONGO_URI="mongodb+srv://auto:auto@autoanime.990ey.mongodb.net/?retryWrites=true&w=majority&appName=autoanime"
+
 
 # Channels Configs
 FSUB_CHATS= ""  #Multiple Separated By Space ( Optional ) ( Upto 80 )
-BACKUP_CHANNEL= "-1002392729611" # Multiple Separated By Space ( Optional )
-MAIN_CHANNEL= "-1002312618185"
+BACKUP_CHANNEL= "" # Multiple Separated By Space ( Optional )
+MAIN_CHANNEL= "-1002024030760"
 LOG_CHANNEL="" # ( Optional )
-FILE_STORE= "-1002329208995"
-ADMINS= "8108281129"
+FILE_STORE= "-10016279116240"
+ADMINS= "831859341"
 
 # Bot Settings
 RSS_ITEMS="https://nyaa.si/?page=rss&u=varyg1001"
 SEND_SCHEDULE="False"
 
-BRAND_UNAME="@TeamWarlords" # Username of Channel with @ or Text as Footer of Every Post
-FFCODE_1080 = ffmpeg -i """{}""" -progress "{}" -c:v libx264 -crf 34 -c:s copy -pix_fmt yuv420p -s 1920x1080 -b:v 150k -c:a libopus -b:a 35k -preset ultrafast -metadata title='Team Warlords' -metadata author='Team Warlords' -metadata:s:s title='Team Warlords' -metadata:s:a title='Team Warlords' -metadata:s:v title='Team Warlords' '{}' -y
-FFCODE_720 = ffmpeg -i """{}""" -progress "{}" -c:v libx264 -crf 32 -c:s copy -pix_fmt yuv420p -s 1280x720 -b:v 150k -c:a libopus -b:a 35k -preset ultrafast -metadata title='Team Warlords' -metadata author='Team Warlords' -metadata:s:s title='Team Warlords' -metadata:s:a title='Team Warlords' -metadata:s:v title='Team Warlords' '{}' -y
-FFCODE_480 = ffmpeg -i """{}""" -progress "{}" -c:v libx264 -crf 34 -c:s copy -pix_fmt yuv420p -s 854x480 -b:v 150k -c:a libopus -b:a 35k -preset ultrafast -metadata title='Team Warlords' -metadata author='Team Warlords' -metadata:s:s title='Team Warlords' -metadata:s:a title='Team Warlords' -metadata:s:v title='Team Warlords' '{}' -y
-FFCODE_360 = ffmpeg -i """{}""" -progress "{}" -c:v libx264 -crf 36 -c:s copy -pix_fmt yuv420p -s 640x360 -b:v 150k -c:a libopus -b:a 35k -preset ultrafast -metadata title='Team Warlords' -metadata author='Team Warlords' -metadata:s:s title='Team Warlords' -metadata:s:a title='Team Warlords' -metadata:s:v title='Team Warlords' '{}' -y
+BRAND_UNAME="@zblivebot" # Username of Channel with @ or Text as Footer of Every Post
+FFCODE_1080 = ffmpeg -i """{}""" -progress "{}" -c:v libx264 -crf 34 -c:s copy -pix_fmt yuv420p -s 1920x1080 -b:v 150k -c:a libopus -b:a 35k -preset ultrafast -metadata title='Team Warlords' -metadata author='Team @zblivebot' -metadata:s:s title='Team @zblivebot' -metadata:s:a title='Team @zblivebot' -metadata:s:v title='Team @zblivebot' '{}' -y
+FFCODE_720 = ffmpeg -i """{}""" -progress "{}" -c:v libx264 -crf 32 -c:s copy -pix_fmt yuv420p -s 1280x720 -b:v 150k -c:a libopus -b:a 35k -preset ultrafast -metadata title='Team Warlords' -metadata author='Team @zblivebot' -metadata:s:s title='Team @zblivebot' -metadata:s:a title='Team @zblivebot' -metadata:s:v title='Team @zblivebot' '{}' -y
+FFCODE_480 = ffmpeg -i """{}""" -progress "{}" -c:v libx264 -crf 34 -c:s copy -pix_fmt yuv420p -s 854x480 -b:v 150k -c:a libopus -b:a 35k -preset ultrafast -metadata title='Team Warlords' -metadata author='Team @zblivebot' -metadata:s:s title='Team @zblivebot' -metadata:s:a title='Team @zblivebot' -metadata:s:v title='Team @zblivebot' '{}' -y
+FFCODE_360 = ffmpeg -i """{}""" -progress "{}" -c:v libx264 -crf 36 -c:s copy -pix_fmt yuv420p -s 640x360 -b:v 150k -c:a libopus -b:a 35k -preset ultrafast -metadata title='Team Warlords' -metadata author='Team @zblivebot' -metadata:s:s title='Team @zblivebot' -metadata:s:a title='Team @zblivebot' -metadata:s:v title='Team @zblivebot' '{}' -y
 QUALS="360 480 720 1080" # Qualities Separated by Space without 'p' ( Sequence Specific )
 
 # Customisation
