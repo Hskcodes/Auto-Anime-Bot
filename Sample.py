@@ -12,7 +12,7 @@ FSUB_CHATS= ""  #Multiple Separated By Space ( Optional ) ( Upto 80 )
 BACKUP_CHANNEL= "" # Multiple Separated By Space ( Optional )
 MAIN_CHANNEL= "-1002024030760"
 LOG_CHANNEL="" # ( Optional )
-FILE_STORE= "-10016279116240"
+FILE_STORE= "-1001627911624"
 ADMINS= "831859341"
 
 # Bot Settings
