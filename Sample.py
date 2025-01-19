@@ -33,7 +33,7 @@ AUTO_DEL="True"
 DEL_TIMER="1800"
 START_PHOTO="https://telegra.ph/file/d6665dc98be1c27228f0c.jpg"
 "
-START_MSG="<b><blockquote><bold>𝙷𝚎𝚢</bold> {first_name}</blockquote></b>\n\n<b><blockquote><bold>𝙸 𝙰𝚖 𝙰𝚞𝚝𝚘 𝙰𝚗𝚒𝚖𝚎 𝙵𝚒𝚕𝚎 𝚂𝚑𝚊𝚛𝚒𝚗𝚐 𝙱𝚘𝚝 & 𝙰𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚌 𝙴𝚗𝚌𝚘𝚍𝚎 𝙱𝚘𝚝 𝙼𝚊𝚍𝚎 𝙱𝚢 『𝚈𝚊𝚎 𝙼𝚒𝚔𝚘』❋𝄗⃝🦋 ⌞𝚆𝚊𝚛𝚕𝚘𝚛𝚍𝚜⌝ ㊋⚡⚡</blockquote></bold></b>" # Available Fillings : first_name, last_name, mention, user_id 
+START_MSG="<b><blockquote><bold>𝙷𝚎𝚢</bold> {first_name}</blockquote></b>\n\n<b><blockquote><bold>𝙸 𝙰𝚖 𝙰𝚞𝚝𝚘 𝙰𝚗𝚒𝚖𝚎 𝙵𝚒𝚕𝚎 𝚂𝚑𝚊𝚛𝚒𝚗𝚐 𝙱𝚘𝚝 & 𝙰𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚌 𝙴𝚗𝚌𝚘𝚍𝚎 𝙱𝚘𝚝 𝙼𝚊𝚍𝚎 𝙱𝚢 『zb』❋𝄗⃝🦋 ⌞network⌝ ㊋⚡⚡</blockquote></bold></b>" # Available Fillings : first_name, last_name, mention, user_id 
 START_BUTTONS="𝚄𝚙𝚍𝚊𝚝𝚎 𝙲𝚑𝚊𝚗𝚗𝚎𝚕|https://t.me/zballupdatws 𝚂𝚞𝚙𝚙𝚘𝚛𝚝|https://t.me/zblivebot"
 
 # Update 
